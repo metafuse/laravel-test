@@ -1,0 +1,4 @@
+.DS_Store
+vendor/
+laravel-test.sublime-project
+laravel-test.sublime-workspace
